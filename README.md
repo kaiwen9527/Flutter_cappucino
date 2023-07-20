@@ -18,5 +18,5 @@
 
 
 
-## 使用的dependencies
+## dependencies
 fluttertoast: ^8.2.2
