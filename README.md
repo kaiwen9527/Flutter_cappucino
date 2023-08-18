@@ -22,7 +22,7 @@
 fluttertoast: ^8.2.2
 
 
-## 環境Version
+## Version
 Flutter SDK -- 3.10.6
 
 Android SDK -- 34.0.0
