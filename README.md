@@ -20,3 +20,15 @@
 
 ## dependencies
 fluttertoast: ^8.2.2
+
+
+## Version
+Flutter SDK -- 3.10.6
+
+Android SDK -- 34.0.0
+
+Dart Version -- 3.0.6
+
+DevTools Version -- 2.23.1
+
+Java JDK -- 17.0.6
