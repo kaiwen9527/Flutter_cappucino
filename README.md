@@ -4,9 +4,9 @@
 
 ## APP介面
 
-<img src="https://github.com/user-attachments/assets/bd01db31-e4c8-4c64-8471-5c50b4040056" width="300px">
-<img src="https://github.com/user-attachments/assets/a3a9b863-f6c4-42fd-af58-3efc8d62b248" width="300px">
-<img src="https://github.com/user-attachments/assets/4d20c3d5-5e45-4d70-a596-d083034505bf" width="300px">
+<img src="https://github.com/user-attachments/assets/bd01db31-e4c8-4c64-8471-5c50b4040056" width="250px">
+<img src="https://github.com/user-attachments/assets/a3a9b863-f6c4-42fd-af58-3efc8d62b248" width="250px">
+<img src="https://github.com/user-attachments/assets/4d20c3d5-5e45-4d70-a596-d083034505bf" width="250px">
 
 <img src="https://github.com/user-attachments/assets/073324bd-91b5-4261-8dee-02d841fde61f" width="300px">
 <img src="https://github.com/user-attachments/assets/4069f760-8202-4455-8de0-f454897468d0" width="300px">
