@@ -1,13 +1,15 @@
 # Flutter_cappucino
 
-## APP介面
 * 簡易的咖啡商品項應用，進入主頁後點擊 Welcome 會進入到卡布奇諾這項產品的介面，使用者可查看詳情且有滿意的話可以選擇分量下單。
 
-  ![卡布奇諾](https://github.com/user-attachments/assets/bd01db31-e4c8-4c64-8471-5c50b4040056) 
-![卡布奇諾(detail)](https://github.com/user-attachments/assets/a3a9b863-f6c4-42fd-af58-3efc8d62b248)
-  ![收藏成功](https://github.com/user-attachments/assets/4d20c3d5-5e45-4d70-a596-d083034505bf) 
-![購買成功](https://github.com/user-attachments/assets/073324bd-91b5-4261-8dee-02d841fde61f) 
-  ![顯示更多](https://github.com/user-attachments/assets/4069f760-8202-4455-8de0-f454897468d0) 
+## APP介面
+
+<img src="https://github.com/user-attachments/assets/bd01db31-e4c8-4c64-8471-5c50b4040056" width="300px">
+<img src="https://github.com/user-attachments/assets/a3a9b863-f6c4-42fd-af58-3efc8d62b248" width="300px">
+<img src="https://github.com/user-attachments/assets/4d20c3d5-5e45-4d70-a596-d083034505bf" width="300px">
+
+<img src="https://github.com/user-attachments/assets/073324bd-91b5-4261-8dee-02d841fde61f" width="300px">
+<img src="https://github.com/user-attachments/assets/4069f760-8202-4455-8de0-f454897468d0" width="300px">
 
 
 ## 操作
